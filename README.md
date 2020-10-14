@@ -5,12 +5,10 @@
 
 ## 📌 Index
 
-- [📌 Index](#-index)
 - [❔ Sobre o projeto](#-sobre-o-projeto)
 - [📸 Screenshots](#-screenshots)
-- [🛠 Techs](#-techs)
-- [⚙ Instalação e Start](#-instalação-e-start)
-- [🤝 Contribuições](#-contribuições)
+- [🚀 Tecnologias](#-techs)
+- [🤔 Como contribuir](#-contribuições)
 - [📜 License](#-license)
 
 
@@ -24,29 +22,27 @@ O projeto está em desenvolvimento na [Next Level Week 3](https://nextlevelweek.
 ## 📸 Screenshots
 
 
-## 🛠 Techs
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+
+- Libs
+  - [Express](https://expressjs.com/pt-br/)
 
 
-## ⚙ Instalação e Start
+## 🤔 Como contribuir
 
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
 
-## 🤝 Contribuições
-
-Siga os passos abaixo para contribuir:
-
-1. Faça o *fork* do projeto (<https://github.com/tiagoolivv/Happy>)
-
-2. Clone o seu *fork* para sua maquína (`git clone https://github.com/user_name/happy.git`)
-
-3. Crie uma *branch* para realizar sua modificação (`git checkout -b feature/name_new_feature`)
-
-4. Adicione suas modificações e faça o *commit* (`git commit -m "Descreva sua modificação"`)
-
-5. *Push* (`git push origin feature/name_new_feature`)
-
-6. Crie um novo *Pull Request*
-
-7. Pronto, agora só aguardar a análise 🚀 
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
 
 ## 📜 License
