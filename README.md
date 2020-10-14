@@ -7,8 +7,8 @@
 
 - [❔ Sobre o projeto](#-sobre-o-projeto)
 - [📸 Screenshots](#-screenshots)
-- [🚀 Tecnologias](#-techs)
-- [🤔 Como contribuir](#-contribuições)
+- [🚀 Tecnologias](#-tecnologias)
+- [🤔 Como contribuir](#-como-contribuir)
 - [📜 License](#-license)
 
 
