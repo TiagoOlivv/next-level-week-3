@@ -1,0 +1,4 @@
+node_modules
+yarn.lock
+uploads/*
+src/database/database.sqlite
