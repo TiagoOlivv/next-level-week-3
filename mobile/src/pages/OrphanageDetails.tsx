@@ -8,6 +8,7 @@ import {
   Dimensions,
   TouchableOpacity,
   Linking,
+  ActivityIndicator,
 } from "react-native";
 import MapView, { Marker } from "react-native-maps";
 import { Feather, FontAwesome } from "@expo/vector-icons";
@@ -49,8 +50,8 @@ export default function OrphanageDetails() {
 
   if (!orphanage) {
     return (
-      <View style={styles.container}>
-        <Text style={styles.description}>Carregando...</Text>
+      <View style={[styles.loadingContainer, styles.loading]}>
+        <ActivityIndicator size="large" color="#4D6F80" />
       </View>
     );
   }
@@ -155,6 +156,17 @@ export default function OrphanageDetails() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+  },
+
+  loadingContainer: {
+    flex: 1,
+    justifyContent: "center",
+  },
+
+  loading: {
+    flexDirection: "row",
+    justifyContent: "space-around",
+    padding: 10,
   },
 
   imagesContainer: {
