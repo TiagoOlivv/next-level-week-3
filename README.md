@@ -6,7 +6,6 @@
 ## 📌 Index
 
 - [❔ Sobre o projeto](#-sobre-o-projeto)
-- [📸 Screenshots](#-screenshots)
 - [🚀 Tecnologias](#-tecnologias)
 - [🤔 Como contribuir](#-como-contribuir)
 - [📜 License](#-license)
@@ -17,9 +16,6 @@
 Uma plataforma para facilitar o encontro de orfanatos por pessoas que querem visita-los.
 
 O projeto está em desenvolvimento na [Next Level Week 3](https://nextlevelweek.com/episodios/omnistack/1/edicao/3)
-
-
-## 📸 Screenshots
 
 
 ## 🚀 Tecnologias
